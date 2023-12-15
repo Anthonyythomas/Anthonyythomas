@@ -1,16 +1,20 @@
-### Hi there 👋
+![](./welcome.svg)
+## 👋 Introduction
+Hello! I'm Anthony Thomas, a highly passionate developer who loves to share his passion. I love learning new technologies or programming languages, and I'm always eager to learn and explore new things.
 
-<!--
-**Anthonyythomas/Anthonyythomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💼 Software developer
+- 🌍 I love to explore new technologies and share knowledge.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- 🚀 Exploring new technologies and concepts
+- 📚 Learning and growing in my field
+- 🤝 Open to collaborations and continuous improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anthonyythomas-blue)](https://ch.linkedin.com/in/anthonyythomas)
+
+## 🤝 Contributions
+Open to contributions and collaborations! Let's work together on meaningful projects.
+
+Happy coding! 😊
